@@ -37,6 +37,7 @@ SIMPLE PYTHON CALCULATOR
 ========================================
 1. START
 2. END
+   
 ========================================
 
 Enter your choice: 1
